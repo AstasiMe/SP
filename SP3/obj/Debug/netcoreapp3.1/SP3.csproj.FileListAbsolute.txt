@@ -1,0 +1,13 @@
+C:\Users\Пользователь\source\repos\SP\SP3\bin\Debug\netcoreapp3.1\SP3.exe
+C:\Users\Пользователь\source\repos\SP\SP3\bin\Debug\netcoreapp3.1\SP3.deps.json
+C:\Users\Пользователь\source\repos\SP\SP3\bin\Debug\netcoreapp3.1\SP3.runtimeconfig.json
+C:\Users\Пользователь\source\repos\SP\SP3\bin\Debug\netcoreapp3.1\SP3.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\SP\SP3\bin\Debug\netcoreapp3.1\SP3.dll
+C:\Users\Пользователь\source\repos\SP\SP3\bin\Debug\netcoreapp3.1\SP3.pdb
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.dll
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.pdb
+C:\Users\Пользователь\source\repos\SP\SP3\obj\Debug\netcoreapp3.1\SP3.genruntimeconfig.cache
